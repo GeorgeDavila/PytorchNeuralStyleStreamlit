@@ -1,4 +1,4 @@
-<img align="left" alt="demo1" width="800px" src="https://github.com/GeorgeDavila/PytorchNeuralStyleStreamlit/blob/main/images/output-images/pnss_sample1.png?raw=true" />
+![Alt Text](images/output-images/pnss_sample1.png)
 
 <br/><br/>
 
