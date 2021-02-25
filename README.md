@@ -10,7 +10,9 @@ pip install -r requirements.txt
 
 streamlit run streamlit_main.py 
 
-Best if hosted in local environment. Install pytorch from here: https://pytorch.org/ Make sure to use a download that fits your local system, ie if you have CUDA 10.1 you should choose that version. Due to the hardware requirements I also made an accompanying google colab notebook 
+Best if hosted in local environment. Install pytorch from here: https://pytorch.org/ Make sure to use a download that fits your local system, ie if you have CUDA 10.1 you should choose that version. Due to the hardware requirements I also made an accompanying google colab notebook. 
+
+Works with the current versions (Feb. 24th 2021) of pytorch and streamlit, so if you have these then you might be able to run locally without a venv. 
 
 ### Colab Notebook
 All the code is included in the google colab notebook pytorchNeuralStyle.ipynb
