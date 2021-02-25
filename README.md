@@ -1,4 +1,4 @@
-![Alt Text](images/output-images/pnss_sample1.png)
+![Tesla_Example](images/output-images/pnss_sample1.png)
 
 <br/><br/>
 
@@ -23,5 +23,7 @@ If you just want to run the style transfer algorithm without streamlit, simply r
 /saved_models/ directory contains capitalized duplicates. Not necessary to run it locally but is necessary in our more google colab notebook pytorchNeuralStyle.ipynb (reall shouldn't be necessary but apparently it is when using ngrok) 
 
 
+You can eve use it on photos of your dog!
+![MyDog_Example](images/output-images/boston-output.png1.png)
 
-<img align="left" alt="demo1" width="800px" src="https://github.com/GeorgeDavila/PytorchNeuralStyleStreamlit/blob/main/images/output-images/boston-output.png?raw=true" />
+
