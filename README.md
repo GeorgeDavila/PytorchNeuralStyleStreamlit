@@ -24,6 +24,6 @@ If you just want to run the style transfer algorithm without streamlit, simply r
 
 
 You can eve use it on photos of your dog!
-![MyDog_Example](images/output-images/boston-output.png1.png)
+![MyDog_Example](images/output-images/boston-output.png)
 
 
