@@ -1,9 +1,6 @@
 <img align="left" alt="demo1" width="800px" src="https://github.com/GeorgeDavila/PytorchNeuralStyleStreamlit/blob/main/images/output-images/pnss_sample1.png?raw=true" />
 
-\ 
-
-
-</br>
+<br/><br/>
 
 Based off of fast_neural_style example at https://github.com/pytorch/examples
 
