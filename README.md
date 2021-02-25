@@ -1,7 +1,5 @@
 <img align="left" alt="demo1" width="800px" src="https://github.com/GeorgeDavila/PytorchNeuralStyleStreamlit/blob/main/images/output-images/pnss_sample1.png?raw=true" />
 
-<img align="left" alt="demo1" width="800px" src="https://github.com/GeorgeDavila/PytorchNeuralStyleStreamlit/blob/main/images/output-images/boston-output.png?raw=true" />
-
 Based off of fast_neural_style example at https://github.com/pytorch/examples
 
 To run use the following commands in console while in main directory:
@@ -21,3 +19,6 @@ If you just want to run the style transfer algorithm without streamlit, simply r
 
 ### Notes
 /saved_models/ directory contains capitalized duplicates. Not necessary to run it locally but is necessary in our more google colab notebook pytorchNeuralStyle.ipynb (reall shouldn't be necessary but apparently it is when using ngrok) 
+
+
+<img align="left" alt="demo1" width="800px" src="https://github.com/GeorgeDavila/PytorchNeuralStyleStreamlit/blob/main/images/output-images/boston-output.png?raw=true" />
