@@ -1,6 +1,6 @@
 ![Tesla_Example](images/output-images/pnss_sample1.png)
 
-<br/><br/>
+<br/>
 
 Based off of fast_neural_style example at https://github.com/pytorch/examples
 
